@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/show">
+        <file>image/smallicon.jpg</file>
+        <file>image/welcomeform.png</file>
+    </qresource>
+    <qresource prefix="/card"/>
+</RCC>
