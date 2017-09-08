@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/show">
+        <file>image/smallicon.jpg</file>
+        <file>image/welcomeform.png</file>
+        <file>image/backgroud.jpg</file>
+        <file>image/Quit.png</file>
+        <file>image/Quit2.png</file>
+        <file>image/aibattle2.png</file>
+        <file>image/logo.png</file>
+        <file>image/Setting2.png</file>
+        <file>image/Setting.png</file>
+        <file>image/aibattle.png</file>
+        <file>image/battling.png</file>
+        <file>image/battling2.png</file>
+        <file>image/selecting.png</file>
+        <file>image/selecting2.png</file>
+        <file>image/QuitBackgroud.png</file>
+        <file>image/NoButton2.png</file>
+        <file>image/YesButton.png</file>
+        <file>image/YesButton2.png</file>
+        <file>image/NoButton.png</file>
+    </qresource>
+    <qresource prefix="/card">
+        <file>image/card/Arachas Behemoth.png</file>
+        <file>image/card/Arachas.png</file>
+        <file>image/card/Archgriffin.png</file>
+        <file>image/card/Bekker's Twisted Mirror.png</file>
+        <file>image/card/Biting Frost.png</file>
+        <file>image/card/Caranthir.png</file>
+        <file>image/card/Celaeno Harpy.png</file>
+        <file>image/card/Commander's Hom.png</file>
+        <file>image/card/CroneBrewess.png</file>
+        <file>image/card/CroneWeavess.png</file>
+        <file>image/card/CroneWhispess.png</file>
+        <file>image/card/Dagon.png</file>
+        <file>image/card/Earth Elemental.png</file>
+        <file>image/card/Foglet.png</file>
+        <file>image/card/Frightener.png</file>
+        <file>image/card/Frist Light.png</file>
+        <file>image/card/Ge'els.png</file>
+        <file>image/card/Geralt lgni.png</file>
+        <file>image/card/Impenetrable Fog.png</file>
+        <file>image/card/Lacerate.png</file>
+        <file>image/card/Monster.png</file>
+        <file>image/card/Neutral.png</file>
+        <file>image/card/Roach.png</file>
+        <file>image/card/Swallow Potion.png</file>
+        <file>image/card/Torrential Rain.png</file>
+        <file>image/card/Unseen Elder.png</file>
+        <file>image/card/Vran Warrior.png</file>
+        <file>image/card/Wild Hunt Rider.png</file>
+        <file>image/card/Woodland Spirit.png</file>
+    </qresource>
+</RCC>
